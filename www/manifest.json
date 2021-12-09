@@ -1,0 +1,16 @@
+{
+    "name": "Google I/O 2015",
+    "short_name": "I/O 2015",
+    "start_url": "./",
+    "display": "standalone",
+    "icons": [{
+      "src": "img/logos/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "img/logo.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    }]
+  }
+  
